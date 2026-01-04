@@ -1,4 +1,4 @@
-# 🌐 DevRenish – 3D Portfolio Website
+# 🌐 3D Portfolio Website
 
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-fast-purple?logo=vite)
